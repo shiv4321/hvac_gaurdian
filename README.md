@@ -4,6 +4,10 @@ HVAC Guardian is a mobile-first diagnostic assistant for manufacturing maintenan
 
 The app is built with Expo and React Native. It uses the provided sensor dataset as the operating snapshot for five HVAC units and combines deterministic anomaly scoring with AI-generated triage notes.
 
+## Download APK
+
+[Download the Android APK](https://expo.dev/artifacts/eas/3cr455iiTiFeFQPQwPJcCX.apk)
+
 ## What It Does
 
 - Shows all HVAC units sorted by operational risk instead of raw alert volume.
@@ -101,10 +105,6 @@ EXPO_PUBLIC_GROQ_API_KEY=your_key_here
 ```
 
 Without an API key, the app still runs and displays deterministic anomaly results with fallback diagnostic text.
-
-## Download APK
-
-[Download the Android APK](https://expo.dev/artifacts/eas/3cr455iiTiFeFQPQwPJcCX.apk)
 
 ## Tech Stack
 
