@@ -102,6 +102,10 @@ EXPO_PUBLIC_GROQ_API_KEY=your_key_here
 
 Without an API key, the app still runs and displays deterministic anomaly results with fallback diagnostic text.
 
+## Download APK
+
+[Download the Android APK](https://expo.dev/artifacts/eas/3cr455iiTiFeFQPQwPJcCX.apk)
+
 ## Tech Stack
 
 - Expo
