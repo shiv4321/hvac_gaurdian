@@ -10,11 +10,8 @@ The app is built with Expo and React Native. It uses the provided sensor dataset
 
 ## Screens 
 
-<img width="1080" height="2237" alt="hvac-screen1" src="https://github.com/user-attachments/assets/d895c5f0-4a5a-4856-be11-e9c85d83b2c0" />
+<img width="1920" height="1080" alt="hvac-guardian-screens" src="https://github.com/user-attachments/assets/bb6d69cd-8e74-49ff-b1c4-63c7057f7682" />
 
-<img width="1080" height="2225" alt="hvac-screen2" src="https://github.com/user-attachments/assets/b156d7fd-a455-450e-b8d5-9c871e35769a" />
-
-<img width="1080" height="2247" alt="hvac-screen3" src="https://github.com/user-attachments/assets/13d80235-31c4-434c-895a-ad31cc7b4042" />
 
 ## What It Does
 
